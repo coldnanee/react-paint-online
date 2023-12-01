@@ -1,0 +1,10 @@
+.root{
+    height: 100dvh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    &__body{
+        border: 1px solid #000;
+        background: #fff;
+    }
+}
